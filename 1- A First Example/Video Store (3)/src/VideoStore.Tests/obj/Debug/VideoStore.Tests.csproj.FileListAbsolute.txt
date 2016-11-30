@@ -1,0 +1,10 @@
+C:\Users\Mark\Documents\GitHub\CSharp\Refactoring-ImprovingCode\1- A First Example\Video Store (1)\src\VideoStore.Tests\bin\Debug\VideoStore.Tests.dll
+C:\Users\Mark\Documents\GitHub\CSharp\Refactoring-ImprovingCode\1- A First Example\Video Store (1)\src\VideoStore.Tests\bin\Debug\VideoStore.Tests.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\Refactoring-ImprovingCode\1- A First Example\Video Store (1)\src\VideoStore.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Mark\Documents\GitHub\CSharp\Refactoring-ImprovingCode\1- A First Example\Video Store (1)\src\VideoStore.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Mark\Documents\GitHub\CSharp\Refactoring-ImprovingCode\1- A First Example\Video Store (1)\src\VideoStore.Tests\bin\Debug\VideoStore.Core.dll
+C:\Users\Mark\Documents\GitHub\CSharp\Refactoring-ImprovingCode\1- A First Example\Video Store (1)\src\VideoStore.Tests\bin\Debug\VideoStore.Core.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\Refactoring-ImprovingCode\1- A First Example\Video Store (1)\src\VideoStore.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Mark\Documents\GitHub\CSharp\Refactoring-ImprovingCode\1- A First Example\Video Store (1)\src\VideoStore.Tests\obj\Debug\VideoStore.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\CSharp\Refactoring-ImprovingCode\1- A First Example\Video Store (1)\src\VideoStore.Tests\obj\Debug\VideoStore.Tests.dll
+C:\Users\Mark\Documents\GitHub\CSharp\Refactoring-ImprovingCode\1- A First Example\Video Store (1)\src\VideoStore.Tests\obj\Debug\VideoStore.Tests.pdb

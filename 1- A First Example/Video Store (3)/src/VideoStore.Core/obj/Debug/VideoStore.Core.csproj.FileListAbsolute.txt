@@ -1,0 +1,5 @@
+C:\Users\Mark\Documents\GitHub\CSharp\Refactoring-ImprovingCode\1- A First Example\Video Store (1)\src\VideoStore.Core\bin\Debug\VideoStore.Core.dll
+C:\Users\Mark\Documents\GitHub\CSharp\Refactoring-ImprovingCode\1- A First Example\Video Store (1)\src\VideoStore.Core\bin\Debug\VideoStore.Core.pdb
+C:\Users\Mark\Documents\GitHub\CSharp\Refactoring-ImprovingCode\1- A First Example\Video Store (1)\src\VideoStore.Core\obj\Debug\VideoStore.Core.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\CSharp\Refactoring-ImprovingCode\1- A First Example\Video Store (1)\src\VideoStore.Core\obj\Debug\VideoStore.Core.dll
+C:\Users\Mark\Documents\GitHub\CSharp\Refactoring-ImprovingCode\1- A First Example\Video Store (1)\src\VideoStore.Core\obj\Debug\VideoStore.Core.pdb
